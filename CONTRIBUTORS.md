@@ -92,3 +92,8 @@
 - Place: New Delhi, Delhi, IN
 - Bio: Student at Indraprastha Institute of Information Technology, Delhi
 - GitHub: [subkrish](https://github.com/subkrish)
+
+#### Name: [L Yuda Rahmani Karnaen](https://github.com/yudartcode)
+- Place: Mataram, NTB, INDONESIA
+- Bio: Student at STMIK Bumigora Mataram
+- GitHub: [L Yuda Rahmani Karnaen](https://github.com/yudartcode)
